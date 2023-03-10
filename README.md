@@ -1,6 +1,3 @@
-# How to install tailwindcss into your react app
+# Task to create the frontend of a website in React
 
-FOllow the original tailwindcss https://tailwindcss.com/docs/guides/create-react-app
-
-But use this command instead of mentioned in the link
-npx tailwindcss init -p
+The technologies used in this task are react and tailwind css
